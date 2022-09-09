@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(sc20yjs)
+project(YOUR_PROJECT_NAME)
 
 set (CMAKE_BUILD_TYPE Debug)
 
